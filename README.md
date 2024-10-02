@@ -4,6 +4,3 @@ Template project repository for DSCI-100
 Authors:
 - Carson Jan
 - Ken Yang
-
-test
-add
