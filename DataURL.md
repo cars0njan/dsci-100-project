@@ -7,7 +7,7 @@ https://drive.google.com/uc?export=download&id=1Mw9vW0hjTJwRWx0bDXiSpYsO3gKogaPz
 > sessions.csv
 https://raw.githubusercontent.com/cars0njan/dsci-100-project/refs/heads/main/data/sessions.csv
 
-> players.csv from GDrive
+> sessions.csv from GDrive
 https://drive.google.com/uc?export=download&id=14O91N5OlVkvdGxXNJUj5jIsV5RexhzbB
 
 **How to download csv from GDrive**
