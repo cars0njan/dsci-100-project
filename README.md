@@ -9,3 +9,6 @@ Authors:
 
 Question
 > Q2. What time windows are most likely to have large number of simultaneous players?
+
+update Nov 24
+ Changed to Q1
